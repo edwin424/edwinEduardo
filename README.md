@@ -19,6 +19,7 @@
   <li>España</li>
     <figure>
       <img src="imagenes/colombia.jpeg" alt="imagen de colombia">
+      <imag src="imagenes/alemania.jpeg" alt="imagen de alemania">
       <li><a href="https://www.worldpackers.com/es/articles/lugares-para-visitar-en-inglaterra">Top 14 mejores lugares para visitar en Inglaterra y cómo ahorrar</a></li>
       <a href="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/20000/20655-Big-Ben.jpg"><img src="imagenes/hiper.webp"></a>
         </script>
